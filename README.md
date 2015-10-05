@@ -1,13 +1,21 @@
 # testeMeusPedidos
 Material desenvolvido para o processo seletivo: QA / Meus Pedidos
+
 Mais informações em Relatório de testes.pdf
+
+----------------------------------------------------------
 
 Requisitos para testes automatizados: 
 
 Python - https://www.python.org/downloads/
+
 Selenium bindings para Python - https://pypi.python.org/pypi/selenium
+
 Behave - http://pythonhosted.org/behave/install.html
+
 Firefox - https://www.mozilla.org/en-US/firefox/new/
+
+---------------------------------------------------------
 
 Instruções de uso: 
 
